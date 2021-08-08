@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj": {}
+    "C:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj": {
+    "C:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj",
+        "projectUniqueName": "C:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj",
         "projectName": "HelloWebapi",
-        "projectPath": "c:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj",
+        "projectPath": "C:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\HelloWebapi.csproj",
         "packagesPath": "C:\\Users\\cengi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\obj\\",
+        "outputPath": "C:\\Users\\cengi\\Desktop\\dotnetcore\\Hello\\HelloWebapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cengi\\AppData\\Roaming\\NuGet\\NuGet.Config"
