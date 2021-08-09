@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cengi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cengi\\.nuget\\packages"
+    ]
+  }
+}

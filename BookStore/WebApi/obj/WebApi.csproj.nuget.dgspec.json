@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "c:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\cengi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\cengi\\Desktop\\dotnetcore\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cengi\\AppData\\Roaming\\NuGet\\NuGet.Config"
